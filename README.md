@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+  Hi there, I'm Ivas <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-<!--
-**ivasx/ivasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Software Engineering Student
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">📈 My GitHub activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivasx&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivasx&layout=compact&theme=radical" alt="Top languages" />
+</p>
