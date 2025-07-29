@@ -1,9 +1,11 @@
 <h1 align="center">
-  Hi there, I'm Ivas <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  Hi there, I'm Ivas
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Waving Hand" />
 </h1>
 
 <h3 align="center">
   Software Engineering Student
+ <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="32" alt="Dancing Cat" style="vertical-align:middle; margin-left:8px;" />
 </h3>
 
 ---
