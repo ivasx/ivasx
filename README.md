@@ -10,15 +10,21 @@
 
 ---
 
-<h2 align="center">📈 My GitHub activity</h2>
+[//]: # (<h2 align="center">📈 My GitHub activity</h2>)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivasx&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+[//]: # ()
+[//]: # (<p align="center">)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivasx&layout=compact&theme=radical" alt="Top languages" />
-</p>
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=ivasx&show_icons=true&theme=radical" alt="GitHub stats" />)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivasx&layout=compact&theme=radical" alt="Top languages" />)
+
+[//]: # (</p>)
 
 ## 🛠️ Tech Stack
 
